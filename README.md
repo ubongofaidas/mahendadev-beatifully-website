@@ -1,5 +1,5 @@
 # mahendadev-beatifully-website
-it's a multipage front-end.
+it's a multipage front-end. here a preview https://ubongofaidas.github.io/mahendadev-beatifully-website/
 
 #Features:
 
